@@ -11,6 +11,10 @@
     <modules>
         <module>oop</module>
         <module>exceptions-and-collections</module>
+        <module>generics-and-lambdas</module>
+        <module>advanced-topics</module>
+        <module>javadoc</module>
+        <module>design-patterns</module>
     </modules>
 
 </project>

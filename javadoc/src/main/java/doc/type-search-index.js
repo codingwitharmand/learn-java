@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.cwa.javadoc","l":"Circle"},{"p":"com.cwa.javadoc","l":"Person"},{"p":"com.cwa.javadoc","l":"Shape"}];updateSearchResults();
